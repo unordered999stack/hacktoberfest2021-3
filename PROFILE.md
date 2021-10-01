@@ -20,3 +20,9 @@
 * Email: tosankrisna@gmail.com
 * Github: [tosankrisna](@tosankrisna)
 * LinkedIn: [Tosan Krisna](https://www.linkedin.com/in/tosankrisna/)
+
+## Amarnaath Shankaran
+* Email: amarnaath999shankaran@gmail.com
+* Github: [unordered999stack](@unordered999stack)
+
+
